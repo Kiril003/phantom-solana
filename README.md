@@ -1,12 +1,12 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="docs/img/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="docs/img/hero-light.svg">
-  <img src="docs/img/hero-dark.svg" width="100%" alt="Nightpost. The light stays on. A night city goes dark window by window; two warm lights in one window stay on.">
+  <img src="docs/img/hero-dark.svg" width="100%" alt="Nightpost. The network drops. Your people, your map and your money don’t. A city at night: windows go out one by one as people go to sleep; phone screens and two warm lights in one window stay on.">
 </picture>
 
-<h3 align="center">Messages, an offline map and money that keep working<br>when the power and the internet are gone.</h3>
+<h3 align="center">A messenger, map and wallet in one app.<br>Message your people, find your way and pay — online or off.</h3>
 
-<p align="center"><sub>Світло не гасне. Месенджер і мапа, які працюють, коли мережа ні.</sub></p>
+<p align="center"><sub>Мережа зникає. Твої люди, мапа й гроші — ні.</sub></p>
 
 <p align="center">
   <a href="https://phantom-os.dev"><b>Website</b></a>
@@ -24,15 +24,17 @@
 
 <br>
 
-**When the network goes, the phone goes dark.** Messages stop, maps go blank, card payments fail. It happened in [Spain and Portugal on 28 April 2025](https://en.wikipedia.org/wiki/2025_Iberian_Peninsula_blackout), in [Central Europe during the floods of September 2024](https://en.wikipedia.org/wiki/2024_Central_European_floods), and since 2022 it has been [part of daily life in Ukraine](https://en.wikipedia.org/wiki/Russian_strikes_against_Ukrainian_infrastructure_(2022%E2%80%93present)). Nightpost is one Android app made for those hours.
+**Every app on your phone is a remote control for someone else’s server.** While the network is there, it all works. When it drops or jams, chats hang, the map is empty and payments don’t go through, often right when you most need to reach your people, find your way and pay. It happens every day in the metro, in the mountains, on roaming, at a packed stadium, festival or station. And sometimes the internet is switched off on purpose: [Access Now counted 313 internet shutdowns in 52 countries in 2025](https://www.accessnow.org/press-release/rising-and-resisting-in-the-darkness-internet-shutdowns-in-2025/), and not a single day passed without one.
+
+**Nightpost is the app you use every day, with a way around a missing network built in.** Emergency apps get installed and forgotten, so when the network fails they aren’t there, or nobody you know is on them. Nightpost is your everyday messenger, map and wallet, and it is the only app that gives all three a path with no network.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="docs/img/why-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="docs/img/why-light.svg">
-  <img src="docs/img/why-dark.svg" width="100%" alt="−55%: card payments in Spain on 28 April 2025, against a normal Monday. Under 4%: of Spain’s cash machines had their own backup power. 768,000: customers lost power in Ireland in Storm Éowyn, 24 January 2025. 72 hours: the EU encourages people to keep essential supplies for at least 72 hours of an emergency.">
+  <img src="docs/img/why-dark.svg" width="100%" alt="313: internet shutdowns around the world in 2025. 52: countries where the internet was shut down at least once in 2025. 0: days in 2025 without an internet shutdown somewhere in the world. Source: Access Now.">
 </picture>
 
-<sub>Sources: Banco de España, <a href="https://www.bde.es/f/webbe/GAP/Secciones/Publicaciones/InformesBoletinesRevistas/RevistaEstabilidadFinanciera/25/3_REF49_Apagon.pdf">Revista de Estabilidad Financiera 49</a> (card payments −55%; under 4% of cash machines with their own power) · ESB Networks, <a href="https://esb.ie/news---insights/press-releases/article/2025/01/26/esb-networks-restores-power-to-490-000-customers-impacted-by-storm-%C3%A9owyn-following-unprecedented-damage-as-estimated-restoration-times-now-available-on-www.powercheck.ie">press release, 26 January 2025</a> · European Commission, <a href="https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_25_856/IP_25_856_EN.pdf">IP/25/856, March 2025</a>.</sub>
+<sub>Source: Access Now, <a href="https://www.accessnow.org/press-release/rising-and-resisting-in-the-darkness-internet-shutdowns-in-2025/">press release on internet shutdowns in 2025</a>, 31 March 2026 (“at least 313 shutdowns … in 52 countries”; not a single day of 2025 without one).</sub>
 
 <table>
 <tr>
@@ -89,7 +91,7 @@ SLOT:see-it -->
 
 ## Money without a network
 
-No power, cards don’t work, the cash machine is dark. And you owe your neighbour 5 € for water. With Nightpost you pay as you would with a signed cheque: **the network isn’t needed at the moment you pay, only later, to credit the money**, just like a cheque written in the evening and taken to the bank in the morning.
+No network, the card terminal is down, and you owe your neighbour 5 € for water. With Nightpost you pay anyway, as you would with a signed cheque: **the network isn’t needed at the moment you pay, only later, to credit the money**, just like a cheque written in the evening and taken to the bank in the morning.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="docs/img/cash-note-dark.svg">
@@ -234,6 +236,6 @@ Write to us through the website: **[phantom-os.dev](https://phantom-os.dev)**.
     <img src="docs/img/mark-dark.svg" width="32" alt="Nightpost">
   </picture>
   <br>
-  <sub>The light stays on.</sub>
+  <sub>The network drops. Your people, your map and your money don’t.</sub>
 </p>
 
