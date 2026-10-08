@@ -14,7 +14,6 @@
   <img alt="Solana" src="https://img.shields.io/badge/Solana-devnet-14F195?style=flat-square&labelColor=0B0907">
   <img alt="Android" src="https://img.shields.io/badge/Android-native%20%2B%20web-F2A93B?style=flat-square&labelColor=0B0907">
   <img alt="PC" src="https://img.shields.io/badge/PC-companion-E9D2A6?style=flat-square&labelColor=0B0907">
-  <img alt="Made in Ostrava" src="https://img.shields.io/badge/made%20in-Ostrava-F3EDE4?style=flat-square&labelColor=0B0907">
 </p>
 
 ---
@@ -98,12 +97,6 @@ The same honest status as on the website. Everything runs on Solana devnet, with
 | Wallet sign-in through MWA; Seeker Genesis Token check | Split by dish, each pays their share, bill id on chain | Assistant agents on the PC, shown once a real run is recorded |
 | Phone–PC pairing and a messenger on the PC | Builder pages for places; points for real actions; the assistant works out of the box | Real money only after an independent security audit |
 
-## Team
-
-**Kyrylo Myloserdov**, 19, Ukrainian, founder. A student at VŠB – Technical University of Ostrava.
-**Co-founder**: joined in October 2026. Details soon.
-
-The founders set the direction, decide what ships and check every build on a real phone. An orchestrated fleet of AI coding agents writes, tests and reviews the code, each agent on its own branch, behind automated test gates.
 
 ## How judges can verify
 
