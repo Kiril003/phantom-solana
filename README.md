@@ -1,132 +1,116 @@
 <p align="center">
-  <img src="docs/img/deck-hero.png" width="720" alt="Going out takes five apps and one friend who pays. Nightpost turns it into one flow.">
+  <img src="docs/img/banner.jpg" alt="Nightpost: everything your phone is for, joined. Four app screens: profile, today hub, living map, wallet." width="100%">
 </p>
-
-<h3 align="center">Going out takes five apps and one friend who pays.<br>Nightpost turns it into one flow.</h3>
-
-<p align="center"><sub>From "let's meet" to a settled bill, in one chat.</sub></p>
 
 <p align="center">
-  <a href="https://phantom-os.dev"><b>Website</b></a>
-  &nbsp;·&nbsp;
-  <a href="docs/nightpost-deck.pdf"><b>Pitch deck (PDF)</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://colosseum.com/arena/projects/nightpost"><b>Colosseum project</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://phantom-os.dev/download"><b>Download for Android</b></a>
+  <a href="https://phantom-os.dev"><b>Website</b></a> ·
+  <a href="docs/nightpost-deck.pdf"><b>Deck (PDF)</b></a> ·
+  <a href="https://phantom-os.dev/download"><b>Android build</b></a> ·
+  <a href="#where-we-are-today"><b>Where we are today</b></a> ·
+  <a href="mailto:hello@phantom-os.dev"><b>hello@phantom-os.dev</b></a>
 </p>
-
-<p align="center"><sub>Devnet only · zero users · zero venues today · part of the chain is still planned</sub></p>
 
 <p align="center">
-  <a href="#one-evening-one-flow">One evening, one flow</a> ·
-  <a href="#built-this-week-later">Built · this week · later</a> ·
-  <a href="#why-solana">Why Solana</a> ·
-  <a href="#three-evenings">Three evenings</a> ·
-  <a href="#team">Team</a> ·
-  <a href="#how-judges-can-verify">How judges can verify</a>
+  <img alt="Solana" src="https://img.shields.io/badge/Solana-devnet-14F195?style=flat-square&labelColor=0B0907">
+  <img alt="Android" src="https://img.shields.io/badge/Android-native%20%2B%20web-F2A93B?style=flat-square&labelColor=0B0907">
+  <img alt="PC" src="https://img.shields.io/badge/PC-companion-E9D2A6?style=flat-square&labelColor=0B0907">
+  <img alt="Made in Ostrava" src="https://img.shields.io/badge/made%20in-Ostrava-F3EDE4?style=flat-square&labelColor=0B0907">
 </p>
 
-<br>
+---
 
-## Five apps, and one friend pays for everyone
+## Your phone does five jobs in fifteen apps that never talk to each other
 
-A group deciding where, when and who's coming goes through Google Maps, a group chat, a poll tool, a location screenshot and a split-the-bill app — in that order, every time.
+You talk to people. You share things with them. You sort them, whether you admit it or not, into close ones, friends, colleagues and everyone else. You find your way around a city. You show people your day.
 
-| | | |
-|---|---|---|
-| **83 messages, ~11 days** | to plan one trip | Talker Research 2026 |
-| **76%** | of group trips never happen | Talker Research 2026 |
-| **46%** | too awkward to ask for the money back | Starling, UK 2023 |
-| **~30%** | of a delivery order the venue loses to commission | Wolt CZ, 13.07.2026 |
+Today each of those jobs lives in a different app. Your messenger doesn't know where your friends are. Your map doesn't know who you're meeting. Your bank doesn't know who ate what. Nothing knows your circles. So **you** are the glue: copying addresses, screenshotting locations, chasing money, retyping the same plan five times.
 
-A phone already does five jobs an evening needs: talk, share a place, keep your circles, find your way, share your day. Nightpost joins them into one flow instead of five apps.
+**Nightpost joins them into one space.** Your people, conversations, places, moments and money live together. An assistant can see how they fit, on your phone and on your PC.
 
-## One evening, one flow
+<p align="center">
+  <img src="docs/img/one-space.jpg" alt="Not sections, one space: Circles, Talk, Share, Map, Moments, Money, Builder and PC, all connected to each other and to the Assistant in the centre." width="100%">
+</p>
 
-Five stages, one card that changes as the evening moves — never a new message per step.
+## What lives in it
 
-1. **Invite.** A venue's page, built by its owner with no code, and a time go out as one card to the people invited. *This week.*
-2. **Going.** Anyone sharing their position shows up on the map; avatars fill in as each friend answers. *Map sharing built; the invite card is this week.*
-3. **On the way.** The map tells each person when to leave; friends' dots move toward the venue. *Built.*
-4. **Here.** Check-ins confirm who actually arrived — never assumed. *This week.*
-5. **Settled.** The bill splits by dish; each person pays their own share with a fingerprint, in USDC or EURC, on Solana. *One-to-one pay is built; the per-person split is this week.*
+| | |
+|---|---|
+| **Circles** | Close, friends, work, social. Each circle sets who sees your place, your day and your status. No phone number is needed: a **@nickname**, a link or a QR adds anyone, anywhere. |
+| **Talk** | Chats, voice notes, polls, calls and video in high quality, rooms that stay open for a team, and groups made for one event that dissolve or stay. |
+| **Share** | Files, photos, contacts, plans and your live place, to one person, a group or a whole circle, for as long as you choose. |
+| **Map** | A living map: places with real pages, friends who chose to be seen, routes, events nearby and when to leave. |
+| **Moments** | Your day for the circle that should see it: a personal group, a diary, a feed for the people you actually know. |
+| **Money** | A wallet inside the conversation: pay a friend, split by dish, request, chip in for a gift. Points for things you really did, spent on real gifts. |
+| **Builder** | Any café, club, shop or organiser builds a page without code: menu, hours, bookings, orders with a pick-up time, events. |
+| **Assistant** | It knows who, where, when and how much, so it can suggest, draft, remind and arrange. You always confirm. |
+| **PC** | The same space on your computer, with agents that turn a call into tasks and a thread into a plan. |
 
-<p align="center"><img src="docs/img/deck-flow.png" width="680" alt="From let's meet to a settled bill: venue page and Builder at 17:05, friends on the map at 17:10 (built), meetup and evening group at 17:12, split by dish at 17:30, time to leave at 18:02, pay my share with a fingerprint at 20:40."></p>
+## One day, many scenes
 
-## Built, this week, later
+**09:40 · Work.** Marek's study group calls from a room that never closes. Someone drops the lab file into it. After the call, the assistant on his PC has already turned it into three tasks, one per person.
 
-The same honest status that's on the website. Left: in the Android build today. Middle: shipping in build 18, due 12 October 2026. Right: roadmap, no dates until we can keep them.
+**13:10 · A new city.** Ana lands in Kraków. The map shows the places her circles rated, not ads. The assistant builds her afternoon around a 15:00 meeting. A photo of the market goes to her family circle, and only to them.
 
-**Built**
-- A messenger that doesn't need a phone number: groups up to 32, voice notes, polls, reminders.
-- Friends who opt in appear on the map, one-to-one, at a precision and time limit you choose, with on-device navigation.
-- One-to-one pay in chat on Solana's test network — SOL, USDC, EURC — confirmed with a fingerprint.
-- Wallet sign-in through Mobile Wallet Adapter, and a Seeker Genesis Token check.
-- Phone–PC pairing and a messenger on the PC.
+**16:30 · New in town.** Taras moved to Ostrava three weeks ago. Events nearby, a climbing club with its own page, and people from his faculty who opted in: a city starts to feel like his.
 
-**This week — build 18, due 12 October 2026**
-- Nicknames and search, so you can add a friend without ever sharing a phone number.
-- A venue's page and menu, built by its owner with no code.
-- A meetup card that opens a temporary group for the evening, kept if anyone chooses to.
-- The bill splits by dish; each person pays their own share.
-- Per-person arrival time, and points for actions that really happened.
+**19:00 · Friends.** Lukáš picks a pho place. Four friends get one invite with a time, and a group opens for the evening. Everyone sees who's on the way. At the table, dishes split by person, and each pays their own share with a fingerprint. Nobody is the bank tonight.
 
-**Later — no dates until we can keep them**
-- Messages between nearby phones with no network to carry them.
-- Cashback the venue funds, buying points, a gift shop — after legal review.
-- Real money, only after an independent security audit.
-- A desktop agent, shown only once a real run is recorded.
+**22:50 · Close ones.** Oksana's overnight bus is a dot on her daughter's map until 09:00, then the share ends by itself. "Home safe" goes out to her close circle without her typing it.
+
+**Friday · The moment no single app can do.** It's Olena's birthday. The assistant sees that five of her close friends are free, that her favourite café has a table, and that a gift costs €10 each. It drafts all three. One tap from each friend, and it's done.
+
+That last scene is the point. A messenger, a map or a bank can't do it alone, because each sees only a slice. Nightpost sees the people, the place, the time and the money together.
+
+<p align="center">
+  <img src="docs/img/app-chats-live.jpg" width="19%" alt="Today hub">
+  <img src="docs/img/app-meetup-draft.jpg" width="19%" alt="Meetup drafted by the assistant">
+  <img src="docs/img/app-map-live.jpg" width="19%" alt="Living map">
+  <img src="docs/img/app-wallet-live.jpg" width="19%" alt="Wallet">
+  <img src="docs/img/app-profile-live.jpg" width="19%" alt="Profile and circles">
+  <br><sub>Design preview of the next build. Demo data.</sub>
+</p>
 
 ## Why Solana
 
-Splitting a bill between five people means five small, fast, cheap transfers — not one big one. That needs a chain built for it.
+Money between people is small, frequent and social. Five shares of one dinner, a €10 gift from six friends, a few points for showing up. That needs a chain where a transfer is cheap, final in seconds, and signed on the phone.
 
-| | What it means for a group splitting a bill | Status |
+| | Why it matters here |
+|---|---|
+| **USDC and EURC** | People pay in dollars or euros they already hold, not a coin whose price moves mid-dinner. Both are legal to use in the EU under MiCA. |
+| **Mobile Wallet Adapter and Seed Vault** | You sign with the wallet already on your phone. On a Seeker, the key never leaves its secure vault. |
+| **The reference on chain** | Each share carries the id of the bill it pays, so the explorer shows what was paid for and one payment can never settle two shares. |
+| **Points you can verify** | Points come only from actions backed by a real signature, not from a screen tap. |
+| **Solana dApp Store** | A distribution channel built for this stack that reaches Seeker owners directly. |
+
+## Business
+
+People pay nothing. A place pays **€1–4 per guest who paid through Nightpost**. Its basic Builder page is free. We grow city by city, starting with students: about 23,800 in Ostrava, then Brno, then Europe's 18.8 million.
+
+## Where we are today
+
+The same honest status as on the website. Everything runs on Solana devnet, with zero users so far.
+
+| Built and on the phone | Shipping in build 18 (12 Oct 2026) | Next |
 |---|---|---|
-| **USDC & EURC** | Everyone pays in dollars or euros they already hold, not a coin whose price moves mid-dinner. | Built, devnet |
-| **Sub-cent, sub-second** | A share settles in under a second for about $0.0005 — cheap enough for ten small shares, not just one big bill. | Proven on devnet |
-| **Mobile Wallet Adapter** | Sign with the wallet already on your phone. No new app to install before you can pay your share. | Built |
-| **Seed Vault (Seeker)** | On a Seeker phone, the key that signs a share never leaves its secure vault. | Built; not yet run on a Seeker |
-| **Sign-In With Solana** | Join with a wallet — no email, no password. | Built |
-| **Solana dApp Store** | A distribution channel built for this stack, reaching Seeker owners directly. | Planned this month |
-
-<p align="center"><img src="docs/img/deck-rivals.png" width="680" alt="Each rival owns one step: Google Maps and WhatsApp own place and invite; Qerko, Revolut Group Bills and Wolt Split Payments own split and pay; Blackbird owns pay and reward. Only Nightpost's chain, place through reward, is new."></p>
-
-## Three evenings
-
-**Lukáš stops being the bank.** Five classmates split pho after a lab. Four shares land on Lukáš's phone before the plates are cleared — he never asks, and never pays for everyone again. *This week, devnet.*
-
-**Mum's bus is a dot, not a worry.** Oksana shares her overnight bus route with her daughter Marta until 09:00. Marta never asks "where are you", and the share ends by itself. *Built.*
-
-**Eleven strangers, one table, zero IBANs.** Ana meets ten Seeker owners she'd known an hour, at a Solana meetup in Lisbon. Before the bill's payer is out the door, all ten shares have landed — in USDC. *This week, devnet.*
+| Messenger without a phone number: groups up to 32, voice notes, polls, reminders | @nicknames and global search; add anyone over the internet | Circles with their own visibility rules; call rooms |
+| Friends on the map by consent, at a precision and time you choose; on-device navigation | Calls that ring, in high quality | Moments and the personal feed |
+| One-to-one pay in chat: SOL, USDC, EURC, confirmed with a fingerprint | Meetup card with a group for the evening | Gifts, buying points, cashback funded by places |
+| Wallet sign-in through MWA; Seeker Genesis Token check | Split by dish, each pays their share, bill id on chain | Assistant agents on the PC, shown once a real run is recorded |
+| Phone–PC pairing and a messenger on the PC | Builder pages for places; points for real actions; the assistant works out of the box | Real money only after an independent security audit |
 
 ## Team
 
-**Kyrylo Myloserdov**, 19, Ukrainian, founder. Student at VŠB – Technical University of Ostrava, Czechia.
+**Kyrylo Myloserdov**, 19, Ukrainian, founder. A student at VŠB – Technical University of Ostrava.
+**Co-founder**: joined in October 2026. Details soon.
 
-**Co-founder** — joining, details soon.
-
-Nightpost is built by its founders with an orchestrated fleet of AI coding agents: they set the direction and decide what ships; the agents write, test and check the code, each on its own branch, behind automated test gates.
+The founders set the direction, decide what ships and check every build on a real phone. An orchestrated fleet of AI coding agents writes, tests and reviews the code, each agent on its own branch, behind automated test gates.
 
 ## How judges can verify
 
-- **Devnet transactions.** Every payment claim above runs on Solana's public test network, and every transaction opens on Solana Explorer. [Early proof on the same payment rails: a signed share cashed, and a copy of it refused.](https://explorer.solana.com/tx/5u377JHTiKakSqVdN3QB33qeQLUFxNBpx8vRmqAb83yRCHPRARt4XJWvqn9oZT3Pa1XYC5tH3sPrA9MdFBY9i3JT?cluster=devnet)
-- **APK releases.** A free, signed Android build, with its checksum, is at [phantom-os.dev/download](https://phantom-os.dev/download).
-- **Full source, on request.** Nightpost's code is private during the hackathon review window. Judges can request read access through the website.
+- **Devnet transactions.** Every payment claim runs on Solana's public test network and opens on Solana Explorer. [Early proof: a signed share cashed, and a copy of it refused.](https://explorer.solana.com/tx/5u377JHTiKakSqVdN3QB33qeQLUFxNBpx8vRmqAb83yRCHPRARt4XJWvqn9oZT3Pa1XYC5tH3sPrA9MdFBY9i3JT?cluster=devnet)
+- **APK.** A free, signed Android build with its checksum is at [phantom-os.dev/download](https://phantom-os.dev/download).
+- **Source on request.** The code is private during the review window. Judges can request read access through the website.
 
 ## Licence
 
-© 2026 Kyrylo Myloserdov. **All rights reserved.** This repository holds only words, pictures and the pitch deck; no licence is granted to use them ([LICENSE](LICENSE)). Nightpost's code is private.
-
-<br>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="docs/img/mark-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="docs/img/mark-light.svg">
-    <img src="docs/img/mark-dark.svg" width="32" alt="Nightpost">
-  </picture>
-  <br>
-  <sub>Going out takes five apps and one friend who pays. Nightpost turns it into one flow.</sub>
-</p>
+© 2026 Kyrylo Myloserdov. **All rights reserved.** This repository holds only words, pictures and the pitch deck. No licence is granted to use them ([LICENSE](LICENSE)). The code is private.
