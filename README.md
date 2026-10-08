@@ -83,7 +83,7 @@ Money between people is small, frequent and social. Five shares of one dinner, a
 
 ## Business
 
-People pay nothing. A place pays **€1–4 per guest who paid through Nightpost**. Its basic Builder page is free. We start with students in one university city, the one where we study (about 23,800 in Ostrava). Then the next campus, then Europe's 18.8 million students.
+People pay nothing. A place pays **€1–4 per guest who paid through Nightpost**. Its basic Builder page is free. We start with students in one university city (about 23,800 students in Ostrava). Then the next campus, then Europe's 18.8 million students.
 
 ## Where we are today
 
