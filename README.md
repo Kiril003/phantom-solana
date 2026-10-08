@@ -23,7 +23,7 @@
 
 You talk to people. You share things with them. You sort them, whether you admit it or not, into close ones, friends, colleagues and everyone else. You find your way around a city. You show people your day.
 
-Today each of those jobs lives in a different app. Your messenger doesn't know where your friends are. Your map doesn't know who you're meeting. Your bank doesn't know who ate what. Nothing knows your circles. So **you** are the glue: copying addresses, screenshotting locations, chasing money, retyping the same plan five times.
+Today each of those jobs lives in a different app. Your messenger doesn't know where your friends are. Your map doesn't know who you're meeting. Your bank doesn't know who you owe or why. Nothing knows your circles. So **you** are the glue: copying addresses, screenshotting locations, chasing money, retyping the same plan five times.
 
 **Nightpost joins them into one space.** Your people, conversations, places, moments and money live together. An assistant can see how they fit, on your phone and on your PC.
 
@@ -40,7 +40,7 @@ Today each of those jobs lives in a different app. Your messenger doesn't know w
 | **Share** | Files, photos, contacts, plans and your live place, to one person, a group or a whole circle, for as long as you choose. |
 | **Map** | A living map: places with real pages, friends who chose to be seen, routes, events nearby and when to leave. |
 | **Moments** | Your day for the circle that should see it: a personal group, a diary, a feed for the people you actually know. |
-| **Money** | A wallet inside the conversation: pay a friend, split by dish, request, chip in for a gift. Points for things you really did, spent on real gifts. |
+| **Money** | A wallet inside the conversation: pay a friend, split a bill, request, chip in for a gift. Points for things you really did, spent on real gifts. |
 | **Builder** | Any café, club, shop or organiser builds a page without code: menu, hours, bookings, orders with a pick-up time, events. |
 | **Assistant** | It knows who, where, when and how much, so it can suggest, draft, remind and arrange. You always confirm. |
 | **PC** | The same space on your computer, with agents that turn a call into tasks and a thread into a plan. |
@@ -51,7 +51,7 @@ Today each of those jobs lives in a different app. Your messenger doesn't know w
 
 **13:10 · A new city.** Ana lands in Kraków. The map shows the places her circles rated, not ads. The assistant builds her afternoon around a 15:00 meeting. A photo of the market goes to her family circle, and only to them.
 
-**16:30 · New in town.** Taras moved to Ostrava three weeks ago. Events nearby, a climbing club with its own page, and people from his faculty who opted in: a city starts to feel like his.
+**16:30 · New in town.** Taras moved to Vienna for his studies three weeks ago. Events nearby, a climbing club with its own page, and people from his faculty who opted in: a city starts to feel like his.
 
 **19:00 · Friends.** Lukáš picks a pho place. Four friends get one invite with a time, and a group opens for the evening. Everyone sees who's on the way. At the table, dishes split by person, and each pays their own share with a fingerprint. Nobody is the bank tonight.
 
@@ -76,7 +76,7 @@ Money between people is small, frequent and social. Five shares of one dinner, a
 
 | | Why it matters here |
 |---|---|
-| **USDC and EURC** | People pay in dollars or euros they already hold, not a coin whose price moves mid-dinner. Both are legal to use in the EU under MiCA. |
+| **USDC and EURC** | People pay in dollars or euros they already hold, not a coin whose price moves while you pay. Both are legal to use in the EU under MiCA. |
 | **Mobile Wallet Adapter and Seed Vault** | You sign with the wallet already on your phone. On a Seeker, the key never leaves its secure vault. |
 | **The reference on chain** | Each share carries the id of the bill it pays, so the explorer shows what was paid for and one payment can never settle two shares. |
 | **Points you can verify** | Points come only from actions backed by a real signature, not from a screen tap. |
@@ -84,7 +84,7 @@ Money between people is small, frequent and social. Five shares of one dinner, a
 
 ## Business
 
-People pay nothing. A place pays **€1–4 per guest who paid through Nightpost**. Its basic Builder page is free. We grow city by city, starting with students: about 23,800 in Ostrava, then Brno, then Europe's 18.8 million.
+People pay nothing. A place pays **€1–4 per guest who paid through Nightpost**. Its basic Builder page is free. We start with students in one university city, the one where we study (about 23,800 in Ostrava). Then the next campus, then Europe's 18.8 million students.
 
 ## Where we are today
 
