@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="docs/img/banner.jpg" alt="Nightpost: everything your phone is for, joined. Four app screens: profile, today hub, living map, wallet." width="100%">
+  <img src="docs/img/banner.jpg" alt="Nightpost: everything your phone is for, joined. Five app screens: Today, a conversation, the map, the wallet and your circles." width="100%">
+  <br><sub>Design preview of the next build. Demo data.</sub>
 </p>
 
 <p align="center">
@@ -61,11 +62,11 @@ Today each of those jobs lives in a different app. Your messenger doesn't know w
 That last scene is the point. A messenger, a map or a bank can't do it alone, because each sees only a slice. Nightpost sees the people, the place, the time and the money together.
 
 <p align="center">
-  <img src="docs/img/app-chats-live.jpg" width="19%" alt="Today hub">
-  <img src="docs/img/app-meetup-draft.jpg" width="19%" alt="Meetup drafted by the assistant">
-  <img src="docs/img/app-map-live.jpg" width="19%" alt="Living map">
-  <img src="docs/img/app-wallet-live.jpg" width="19%" alt="Wallet">
-  <img src="docs/img/app-profile-live.jpg" width="19%" alt="Profile and circles">
+  <img src="docs/img/app-today.jpg" width="19%" alt="Today: what is new across your circles">
+  <img src="docs/img/app-conversation.jpg" width="19%" alt="A conversation with a shared bill and a plan">
+  <img src="docs/img/app-map.jpg" width="19%" alt="Map: a friend walking over">
+  <img src="docs/img/app-wallet.jpg" width="19%" alt="Wallet: money between friends">
+  <img src="docs/img/app-you.jpg" width="19%" alt="You: circles and moments">
   <br><sub>Design preview of the next build. Demo data.</sub>
 </p>
 
@@ -106,4 +107,4 @@ The same honest status as on the website. Everything runs on Solana devnet, with
 
 ## Licence
 
-© 2026 Kyrylo Myloserdov. **All rights reserved.** This repository holds only words, pictures and the pitch deck. No licence is granted to use them ([LICENSE](LICENSE)). The code is private.
+© 2026 Kyrylo Myloserdov. **All rights reserved.** This repository holds only words, pictures and the pitch deck. No licence is granted to use them ([LICENSE](LICENSE)). Photos inside the design previews belong to their authors and keep their own licences ([credits](docs/img/CREDITS.md)). The code is private.
