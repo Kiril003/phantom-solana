@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="docs/img/banner.jpg" alt="Nightpost: everything your phone is for, joined. Five app screens: Today, a conversation, the map, the wallet and your circles." width="100%">
-  <br><sub>Design preview of the next build. Demo data.</sub>
+  <img src="docs/img/real-title.jpg" alt="Nightpost: everything your phone is for, joined. The real map screen with a My people button." width="100%">
 </p>
 
 <p align="center">
@@ -62,12 +61,8 @@ Today each of those jobs lives in a different app. Your messenger doesn't know w
 That last scene is the point. A messenger, a map or a bank can't do it alone, because each sees only a slice. Nightpost sees the people, the place, the time and the money together.
 
 <p align="center">
-  <img src="docs/img/app-today.jpg" width="19%" alt="Today: what is new across your circles">
-  <img src="docs/img/app-conversation.jpg" width="19%" alt="A conversation with a shared bill and a plan">
-  <img src="docs/img/app-map.jpg" width="19%" alt="Map: a friend walking over">
-  <img src="docs/img/app-wallet.jpg" width="19%" alt="Wallet: money between friends">
-  <img src="docs/img/app-you.jpg" width="19%" alt="You: circles and moments">
-  <br><sub>Design preview of the next build. Demo data.</sub>
+  <img src="docs/img/real-screens.jpg" alt="Real app screens: chats, the map with people by consent, the wallet on devnet and a call that rings." width="100%">
+  <br><sub>Real app screens, test data.</sub>
 </p>
 
 ## Why Solana
