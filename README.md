@@ -99,6 +99,18 @@ Money between people is small, frequent and social. That needs a chain where a t
 | **Points you can verify** | Points come only from actions backed by a real signature. | Build 18 |
 | **Solana dApp Store** | A distribution channel built for this stack. | Next |
 
+## Solana Mobile stack
+
+Nightpost is built for Seeker. Wallet, identity and SKR live inside the chat.
+
+| | What it does | Status |
+|---|---|---|
+| **Mobile Wallet Adapter** | External wallets connect through MWA. Keys stay in the wallet. | Built |
+| **Seeker verified** | Sign in with Solana. Our server checks the Seeker Genesis Token on mainnet and signs a "Seeker verified" mark. The Genesis Token also unlocks one month of Pro. | Build 19 |
+| **SKR stake tier** | Payment cards show the mark with the stake tier: staker, 1k+ or 10k+ SKR. Friends' phones check the signature themselves. | Build 19 |
+| **SKR payments** | SKR works as a payment token in chat, on mainnet only. Devnet has no SKR. | Build 19, mainnet only |
+| **Solana dApp Store** | Publisher KYC is done. The listing is the next milestone. | Next |
+
 ## Where we are today
 
 The same status as on the website. Everything runs on Solana devnet with test funds.
